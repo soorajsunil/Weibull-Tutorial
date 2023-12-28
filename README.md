@@ -1,2 +1,2 @@
 # Weibull-Estimation
-Intuitive Weibull estimation
+Intuitive explanation for Weibull estimation
